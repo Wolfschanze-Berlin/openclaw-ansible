@@ -1,0 +1,3 @@
+[submodule "openclaw-ansible"]
+	path = openclaw-ansible
+	url = git@github.com:openclaw/openclaw-ansible.git
